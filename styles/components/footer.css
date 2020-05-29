@@ -1,0 +1,13 @@
+.footer {
+  border-top: 12px solid #ff1744;
+  padding: 28px 0;
+  background-color: #262d34;
+  color: #85898f;
+  overflow: hidden;
+}
+
+.call-us {
+  color: #a5adb8;
+  font-size: 14px;
+  font-weight: 600;
+}

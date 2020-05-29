@@ -1,0 +1,12 @@
+.section {
+  padding-bottom: 30px;
+}
+.section-title {
+  display: block;
+  color: #a5adb8;
+  margin-bottom: 20px;
+}
+
+.section-description {
+  margin-bottom: 18px;
+}

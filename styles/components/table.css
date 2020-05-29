@@ -1,0 +1,33 @@
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  overflow: hidden;
+  border-radius: 4px;
+  background-color: #282d33;
+  color: #9da4af;
+}
+
+.table thead {
+  background-color: #ff1744;
+  color: #ffffff;
+}
+
+.table tr {
+  border-bottom: 1px solid #d8dbde;
+}
+.table tbody tr:last-child {
+  border-bottom: 0;
+}
+
+.table th,
+.table td {
+  border-right: 1px solid #d8dbde;
+  text-align: center;
+  padding: 9px 16px;
+}
+
+.table th:last-child,
+.table td:last-child {
+  border-right: none;
+  text-align: right;
+}

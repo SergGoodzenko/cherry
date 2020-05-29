@@ -1,0 +1,22 @@
+.card-image > img {
+  height: 128px;
+}
+
+.card-title {
+  color: #282d33;
+  margin-bottom: 19px;
+}
+
+* + .card-title {
+  margin-top: 28px;
+}
+
+.card-description {
+  margin-bottom: 32px;
+}
+
+.card-link {
+  color: #ff1744;
+  font-weight: 600;
+  font-size: 12px;
+}
